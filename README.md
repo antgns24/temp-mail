@@ -15,3 +15,7 @@ $ cd temp-mail
 $ ls
 
 $ python3 temp.py
+
+</br>
+
+• thanks to <a href="https://www.trickerindo.com">Tricker </a><a href="https://github.com/Tricker-Indo">Indo</a>
